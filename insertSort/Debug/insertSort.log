@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\khleys\source\repos\insertsort\insertsort\source.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\khleys\source\repos\insertsort\insertsort\source.cpp(11): warning C4101: 'j': unreferenced local variable
+c:\users\khleys\source\repos\insertsort\insertsort\source.cpp(11): warning C4101: 'i': unreferenced local variable
+  insertSort.vcxproj -> C:\Users\Khleys\source\repos\insertSort\Debug\insertSort.exe
